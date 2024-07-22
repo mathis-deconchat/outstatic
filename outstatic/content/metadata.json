@@ -1,6 +1,6 @@
 {
-  "commit": "11cf60033813e12a7b894ce40312088955a7e631",
-  "generated": "2024-07-22T21:28:00.000Z",
+  "commit": "5b627d454fb8ae65a58da775128dc94802ffb31d",
+  "generated": "2024-07-22T21:29:10.757Z",
   "metadata": [
     {
       "__outstatic": {
@@ -197,6 +197,24 @@
       "slug": "hello",
       "status": "published",
       "title": "Hello"
+    },
+    {
+      "__outstatic": {
+        "commit": "5b627d454fb8ae65a58da775128dc94802ffb31d",
+        "hash": "1189484728",
+        "path": "outstatic/content/docs-mybroissexy/dedededed.md"
+      },
+      "author": {
+        "name": "Mathis",
+        "picture": "https://avatars.githubusercontent.com/u/36607684?v=4"
+      },
+      "collection": "docs-mybroissexy",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-22T21:41:00.806Z",
+      "slug": "dedededed",
+      "status": "published",
+      "title": "dedededed"
     }
   ]
 }
