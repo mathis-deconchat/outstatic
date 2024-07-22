@@ -1,6 +1,6 @@
 {
-  "commit": "67eacaa38f3ef6d18f30ae1a4d98c4ceaad39bfc",
-  "generated": "Mon, 22 Jul 2024 21:26:40 GMT",
+  "commit": "11cf60033813e12a7b894ce40312088955a7e631",
+  "generated": "2024-07-22T21:28:00.000Z",
   "metadata": [
     {
       "__outstatic": {
@@ -179,6 +179,24 @@
         }
       ],
       "title": "Far Out - The Next Steps for Outstatic "
+    },
+    {
+      "__outstatic": {
+        "commit": "11cf60033813e12a7b894ce40312088955a7e631",
+        "hash": "143827284",
+        "path": "outstatic/content/pages/hello.md"
+      },
+      "author": {
+        "name": "Mathis",
+        "picture": "https://avatars.githubusercontent.com/u/36607684?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-22T21:39:49.554Z",
+      "slug": "hello",
+      "status": "published",
+      "title": "Hello"
     }
   ]
 }
